@@ -3,7 +3,7 @@
 Log depth of code.
 """
 
-from base_project.common.timer import *
+from dolly.common.timer import *
 
 
 class DepthManager(contextlib.ContextDecorator):
